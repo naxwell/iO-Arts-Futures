@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
+// This script casts ray out from the right controller on trigger press that will play any depthkit clips it connects with. 
 public class pointerTrigger : MonoBehaviour
 {
     // Start is called before the first frame update
